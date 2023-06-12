@@ -46,6 +46,7 @@ public class Index2D implements Pixel2D {
     public String toString() {
         return getX() + "," + getY();
 
+
     }
 
 }
